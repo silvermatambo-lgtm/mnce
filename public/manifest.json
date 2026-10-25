@@ -1,0 +1,25 @@
+{
+  "name": "MNCE Skills Development",
+  "short_name": "MNCE Skills",
+  "description": "Practical industry-focused training for individuals, teams and businesses, with a specialist focus on professional on-site training.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#171d2d",
+  "theme_color": "#f4c430",
+  "lang": "en-ZA",
+  "icons": [
+    {
+      "src": "/brand/icon-mnce-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brand/icon-mnce-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

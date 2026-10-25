@@ -1,0 +1,186 @@
+{
+  "templateVersion": "6.0.0",
+  "mode": "client",
+  "clientId": "mnce-skills-development",
+  "brand": {
+    "name": "MNCE Skills Development",
+    "shortName": "MNCE",
+    "tagline": "Skills today. Opportunities tomorrow.",
+    "description": "Practical industry-focused training for individuals, teams and businesses, with a specialist focus on professional on-site training.",
+    "domain": "",
+    "logo": "/media/mnce-logo.webp",
+    "accent": "#f4c430",
+    "accentDark": "#deaa05",
+    "aboutIntro": "MNCE Skills Development offers practical training across plant machinery, lifting operations, engineering trades and workplace safety. Our on-site training enquiries are designed for businesses that want to upskill teams where they work.",
+    "mission": "To make practical, job-relevant skills training accessible and help learners build workplace confidence.",
+    "vision": "To support safer workplaces and more skilled teams through hands-on training.",
+    "values": [
+      "Practical, skills-first learning",
+      "On-site options for businesses",
+      "Safety-focused instruction"
+    ],
+    "socialImage": "/media/onsite.webp"
+  },
+  "contact": {
+    "phone": "011 070 7128",
+    "whatsapp": "0723441238",
+    "email": "info@mnceskills.co.za",
+    "address": "Johannesburg: 1 De Villiers Street, Building next to Home Affairs. Westonaria: Plot No. 7 Donald Street, Venterspost, Westonaria.",
+    "mapEmbedUrl": "",
+    "hours": "Contact us for training dates and site bookings",
+    "serviceArea": "Johannesburg, Westonaria and corporate on-site enquiries across South Africa",
+    "website": "https://www.mnceskills.co.za"
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "features": {
+    "pwaEnabled": true,
+    "showInstallPrompt": true,
+    "chatAssistant": true,
+    "showTestimonials": false,
+    "showGallery": true
+  },
+  "pwa": {
+    "shortName": "MNCE Skills",
+    "cacheVersion": "mnce-v1",
+    "icon192": "/brand/icon-mnce-192.png",
+    "icon512": "/brand/icon-mnce-512.png"
+  },
+  "heroSlides": [
+    {
+      "eyebrow": "PROFESSIONAL ON-SITE TRAINING",
+      "heading": "Train your team.",
+      "highlight": "On your site.",
+      "description": "Workplace-focused equipment and safety training for businesses that need skilled, confident teams. Request a tailored on-site quotation.",
+      "image": "/media/onsite.webp"
+    },
+    {
+      "eyebrow": "HEAVY EQUIPMENT & PLANT",
+      "heading": "Real equipment.",
+      "highlight": "Practical skills.",
+      "description": "Explore forklift, reach truck, earthmoving and lifting equipment training delivered through practical instruction.",
+      "image": "/media/tractor.webp"
+    },
+    {
+      "eyebrow": "SAFETY & COMPLIANCE",
+      "heading": "Make safety",
+      "highlight": "part of the job.",
+      "description": "Ask about first aid, firefighting, health and safety and site-specific workforce training.",
+      "image": "/media/forklift.webp"
+    }
+  ],
+  "services": [
+    {
+      "id": "onsite",
+      "name": "Corporate On-Site Training",
+      "summary": "Arrange practical training for your team at your premises.",
+      "details": "Training planning for industrial sites, warehouses and operational workplaces. Contact us for dates, scope and a site-specific quotation.",
+      "image": "/media/onsite.webp"
+    },
+    {
+      "id": "lifting",
+      "name": "Forklift & Material Handling",
+      "summary": "Forklift, reach truck and power pallet training pathways.",
+      "details": "Explore the various lifting equipment categories and request the course and duration that fit your needs.",
+      "image": "/media/forklift.webp"
+    },
+    {
+      "id": "earthmoving",
+      "name": "Earthmoving & Plant Machinery",
+      "summary": "Excavator, TLB, grader, dump truck and loader training.",
+      "details": "Hands-on equipment training options with package enquiries and training duration details.",
+      "image": "/media/tractor.webp"
+    },
+    {
+      "id": "safety",
+      "name": "Health & Safety Training",
+      "summary": "Safety, first aid, firefighting, and overhead crane enquiries.",
+      "details": "Discuss safety-related training needs for workplaces and teams.",
+      "image": "/media/team.webp"
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering Trades",
+      "summary": "Welding, electrical, mechanical and trade-related practical courses.",
+      "details": "Select a training pathway that supports technical and workplace skill development.",
+      "image": "/media/meeting.webp"
+    },
+    {
+      "id": "workforce",
+      "name": "Group & Workforce Upskilling",
+      "summary": "Plan training for multiple employees at once.",
+      "details": "Send the team size, location, required courses and dates for a tailored proposal.",
+      "image": "/media/recognition.webp"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "visit",
+      "title": "Training team on site",
+      "category": "Field visit",
+      "image": "/media/onsite.webp"
+    },
+    {
+      "id": "equipment",
+      "title": "Equipment familiarisation",
+      "category": "Practical learning",
+      "image": "/media/tractor.webp"
+    },
+    {
+      "id": "warehouse",
+      "title": "Forklift demonstration",
+      "category": "Material handling",
+      "image": "/media/forklift.webp"
+    },
+    {
+      "id": "client",
+      "title": "Training site engagement",
+      "category": "Learner support",
+      "image": "/media/team.webp"
+    },
+    {
+      "id": "meeting",
+      "title": "Workplace consultation",
+      "category": "Corporate training",
+      "image": "/media/meeting.webp"
+    },
+    {
+      "id": "recognition",
+      "title": "Training recognition moment",
+      "category": "Skills development",
+      "image": "/media/recognition.webp"
+    }
+  ],
+  "testimonials": [],
+  "faqs": [
+    {
+      "question": "Can MNCE deliver training at our workplace?",
+      "answer": "Yes. On-site training is a core enquiry option. Tell us your location, course, equipment, approximate number of learners and preferred dates so we can discuss a suitable arrangement."
+    },
+    {
+      "question": "How do we request a corporate training quotation?",
+      "answer": "Use the on-site booking form or WhatsApp us. We will need the training topic, employee count, venue and ideal dates to prepare a proposal."
+    },
+    {
+      "question": "Do listed individual prices apply to corporate on-site sessions?",
+      "answer": "No. Advertised individual-course prices are reference prices from promotional material and may change. Corporate or off-site delivery requires its own quotation."
+    },
+    {
+      "question": "Are accommodation, PPE and Wi-Fi included?",
+      "answer": "Some promotional training packages mention these benefits. Confirm availability and inclusion for your chosen course and venue before paying."
+    },
+    {
+      "question": "Are jobs guaranteed after training?",
+      "answer": "Employment placement is not guaranteed by this website. Ask MNCE directly about any employment support or current opportunities."
+    },
+    {
+      "question": "How can I verify certification or accreditation?",
+      "answer": "Request the current accreditation and course-specific certification details from MNCE before enrolment."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+import { site } from '../config/site';
+import PageHero from '../components/PageHero';
+import Reveal from '../components/Reveal';
+export default function Gallery(){return <><PageHero eyebrow="PORTFOLIO" title="Our Gallery" subtitle="Explore our services and completed projects. Images are managed for each client through the central website configuration."/>
+ <section className="py-20 bg-slate-50"><div className="container-site">{site.gallery.length ? <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-7">{site.gallery.map(item=><Reveal key={item.id}><figure className="card-base overflow-hidden group"><div className="h-64 overflow-hidden"><img src={item.image} loading="lazy" alt={item.title} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"/></div><figcaption className="p-6"><h2 className="font-display font-bold text-lg">{item.title}</h2><p className="text-sm text-slate-500 mt-1">{item.category}</p></figcaption></figure></Reveal>)}</div>:<p className="text-center text-slate-600 p-10 border border-dashed rounded-2xl">New project photos will be added here.</p>}</div></section></>}
